@@ -1,0 +1,18 @@
+{
+	"Title": "Carbonara",
+	"image": "img/carbonara.png",
+	"Cooking Time": "",
+	"Labels": [
+		"Weekend", 
+		"Lunch"
+	],
+	"Ingredients":{
+		"Pasta": "200g",
+		"Bacon": "1 Pack",
+		"Egg": "1",
+		"Pecorino Romano": "50g",
+		"Blacl Pepepr": ""
+	},
+	"Recipe": "Cuocere la pasta, ...",
+	"Notes": "Insert here some notes"
+}
